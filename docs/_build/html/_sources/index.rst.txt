@@ -1,10 +1,10 @@
-.. test documentation master file, created by
-   sphinx-quickstart on Wed Jul 26 17:06:24 2017.
+.. test-r documentation master file, created by
+   sphinx-quickstart on Thu Jul 27 11:35:10 2017.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to test's documentation!
-================================
+Welcome to test-r's documentation!
+==================================
 
 .. toctree::
    :maxdepth: 2
