@@ -4,6 +4,7 @@ Babel==2.4.0
 backports-abc==0.5
 certifi==2017.4.17
 chardet==3.0.4
+CommonMark==0.5.4
 docutils==0.13.1
 idna==2.5
 imagesize==0.7.1
@@ -15,15 +16,16 @@ port-for==0.3.1
 Pygments==2.2.0
 pytz==2017.2
 PyYAML==3.12
+recommonmark==0.4.0
 requests==2.18.2
 singledispatch==3.4.0.3
 six==1.10.0
 snowballstemmer==1.2.1
 Sphinx==1.6.3
 sphinx-autobuild==0.7.1
+sphinx-rtd-theme==0.2.4
 sphinxcontrib-websupport==1.0.1
 tornado==4.5.1
 typing==3.6.1
 urllib3==1.22
-virtualenv==15.1.0
 watchdog==0.8.3
