@@ -10,10 +10,8 @@ Welcome to test-read-the-docs-sample's documentation!
    :maxdepth: 5
    :caption: Contents:
 
-   PC_SDK/index
+   pc-sdk/index
    audio-sdk/index
-   Support/index
-
 
 Indices and tables
 ==================
