@@ -6,13 +6,13 @@ Here inllustrates the values we use in SDK and pluins mapping to a real model. N
 **Note:** The Home button(on the right touch with Hypereal logo) is not for developers so that there isn't any event for it.
 
 #### PC SDK
-![](./resource/1.1.0/img/res_key_mpping/pc_sdk.png)
+![](./res_key_mpping/pc_sdk.png)
 
 #### Unreal
-![](./resource/1.1.0/img/res_key_mpping/unreal.png)
+![](./res_key_mpping/unreal.png)
 If you want to get more details between unreal key and SDK value, please read "Unreal Plugin User Guide" --> "Button Mapping".
 
 #### Unity
-![](./resource/1.1.0/img/res_key_mpping/unity.png)
+![](./res_key_mpping/unity.png)
 
 For Unity, we distinguish left and right controller with L/R labels, you can check the demo for more details.

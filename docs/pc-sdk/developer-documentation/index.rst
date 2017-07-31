@@ -13,4 +13,7 @@ This section documents all the material needed for integrate onto Hypereal’s h
     unity-plugin-user-guide/index
     unreal-platform-plugin/index
     unreal-plugin-user-guide/index
+    key-mapping
+    VRTK-plugin-programming-guide
+
 

@@ -18,9 +18,9 @@
 
 #### Examples Instructions
 - Example 027: Need to drag the TeleportTable from [VRTK] to HyperealCameraRig, if not the TeleportTable will not follow the headset move.
-![](./resource/1.1.0/img/res_vrtk/example027.png)
+![](./res_vrtk/example027.png)
 - Example 031: Need to add Camera(eye) to the "Game Object To Follow" in the [VRTK]/Headset.
-![](./resource/1.1.0/img/res_vrtk/example031.png)
+![](./res_vrtk/example031.png)
 - Example 034: Need to add Camera(eye) to the "Event Camera" in ExampleObjects/Canvas, ExampleObjects/WorldKeyboard, ExampleObjects/DragDropCanvas.
-![](./resource/1.1.0/img/res_vrtk/example034.png)
+![](./res_vrtk/example034.png)
 - Example 029 030: We do not have the more detailed controller models right now. So the tips or the touchpad menu points to the whole controller.

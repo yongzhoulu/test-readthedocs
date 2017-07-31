@@ -7,15 +7,11 @@ Welcome to test-read-the-docs-sample's documentation!
 =====================================================
 
 .. toctree::
-   :maxdepth: 5
-   :caption: Contents:
+    :maxdepth: 5
+    :caption: Contents:
 
-   pc-sdk/index
-   audio-sdk/index
+    pc-sdk/index
+    platform-sdk/index
+    bigData-sdk/index
+    audio-sdk/index
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
