@@ -7,9 +7,11 @@ Welcome to test-read-the-docs-sample's documentation!
 =====================================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 5
    :caption: Contents:
 
+   PC_SDK/index
+   Support/index
 
 
 Indices and tables
