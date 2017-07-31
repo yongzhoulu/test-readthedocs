@@ -11,6 +11,7 @@ Welcome to test-read-the-docs-sample's documentation!
    :caption: Contents:
 
    PC_SDK/index
+   audio-sdk/index
    Support/index
 
 
